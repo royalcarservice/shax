@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+memory.db
+workspace/*
+!workspace/websites/
+workspace/websites/*
+!workspace/websites/.gitkeep

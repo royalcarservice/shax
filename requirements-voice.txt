@@ -1,0 +1,6 @@
+-r requirements.txt
+SpeechRecognition>=3.10
+PyAudio>=0.2.14
+pyttsx3>=2.90
+# Optional: offline, private speech recognition (large download, needs ffmpeg)
+# openai-whisper

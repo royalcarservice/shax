@@ -1,0 +1,5 @@
+SHAQS STABLE BUILD — VISUAL QUALITY PASS
+Architecture: direct website routing
+Website builder: deterministic renderer + optional Ollama content planning
+Visual system: category-specific art direction + responsive design system
+Build date: 2026-08-18
