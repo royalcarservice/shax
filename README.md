@@ -1,6 +1,11 @@
 # Shax — voice-assisted personal AI agent
 
-## Quick start (Windows)
+## One-step install (Windows PowerShell)
+```
+powershell -ExecutionPolicy Bypass -File install.ps1
+```
+
+## Quick start (Windows, manual)
 ```
 python -m venv .venv
 .venv\Scripts\activate
